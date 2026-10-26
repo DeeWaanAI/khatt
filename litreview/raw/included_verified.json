@@ -1,0 +1,843 @@
+{
+ "toolformer2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2302.04761"
+  },
+  "rec": {
+   "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+   "year": "2023",
+   "authors": [
+    "Timo Schick",
+    "Jane Dwivedi-Yu",
+    "Roberto Dess\u00ec",
+    "Roberta Raileanu",
+    "Maria Lomeli",
+    "Luke Zettlemoyer",
+    "Nicola Cancedda",
+    "Thomas Scialom"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2302.04761",
+   "arxiv": "2302.04761",
+   "source": "arxiv"
+  }
+ },
+ "react2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2210.03629"
+  },
+  "rec": {
+   "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+   "year": "2022",
+   "authors": [
+    "Shunyu Yao",
+    "Jeffrey Zhao",
+    "Dian Yu",
+    "Nan Du",
+    "Izhak Shafran",
+    "Karthik Narasimhan",
+    "Yuan Cao"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2210.03629",
+   "arxiv": "2210.03629",
+   "source": "arxiv"
+  }
+ },
+ "gorilla2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2305.15334"
+  },
+  "rec": {
+   "title": "Gorilla: Large Language Model Connected with Massive APIs",
+   "year": "2023",
+   "authors": [
+    "Shishir G. Patil",
+    "Tianjun Zhang",
+    "Xin Wang",
+    "Joseph E. Gonzalez"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2305.15334",
+   "arxiv": "2305.15334",
+   "source": "arxiv"
+  }
+ },
+ "toolllm2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2307.16789"
+  },
+  "rec": {
+   "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+   "year": "2023",
+   "authors": [
+    "Yujia Qin",
+    "Shihao Liang",
+    "Yining Ye",
+    "Kunlun Zhu",
+    "Lan Yan",
+    "Yaxi Lu",
+    "Yankai Lin",
+    "Xin Cong"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2307.16789",
+   "arxiv": "2307.16789",
+   "source": "arxiv"
+  }
+ },
+ "hugginggpt2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2303.17580"
+  },
+  "rec": {
+   "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+   "year": "2023",
+   "authors": [
+    "Yongliang Shen",
+    "Kaitao Song",
+    "Xu Tan",
+    "Dongsheng Li",
+    "Weiming Lu",
+    "Yueting Zhuang"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2303.17580",
+   "arxiv": "2303.17580",
+   "source": "arxiv"
+  }
+ },
+ "webgpt2021": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2112.09332"
+  },
+  "rec": {
+   "title": "WebGPT: Browser-assisted question-answering with human feedback",
+   "year": "2021",
+   "authors": [
+    "Reiichiro Nakano",
+    "Jacob Hilton",
+    "Suchir Balaji",
+    "Jeff Wu",
+    "Long Ouyang",
+    "Christina Kim",
+    "Christopher Hesse",
+    "Shantanu Jain"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2112.09332",
+   "arxiv": "2112.09332",
+   "source": "arxiv"
+  }
+ },
+ "toollearning_survey2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1007/s11704-024-40678-2"
+  },
+  "rec": {
+   "title": "Tool learning with large language models: a survey",
+   "year": 2025,
+   "authors": [
+    "Changle Qu",
+    "Sunhao Dai",
+    "Xiaochi Wei",
+    "Hengyi Cai",
+    "Shuaiqiang Wang",
+    "Dawei Yin",
+    "Jun Xu",
+    "Ji-Rong Wen"
+   ],
+   "venue": "Frontiers of Computer Science",
+   "doi": "10.1007/s11704-024-40678-2",
+   "arxiv": null,
+   "cited_by": 102,
+   "source": "openalex"
+  }
+ },
+ "agenticllm_survey2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1613/jair.1.18675"
+  },
+  "rec": {
+   "title": "Agentic Large Language Models, a Survey",
+   "year": 2025,
+   "authors": [
+    "Aske Plaat",
+    "Max J. van Duijn",
+    "Bas van Stein",
+    "Mike Preu\u00df",
+    "Peter van der Putten",
+    "Kees Joost Batenburg"
+   ],
+   "venue": "Journal of Artificial Intelligence Research",
+   "doi": "10.1613/jair.1.18675",
+   "arxiv": null,
+   "cited_by": 73,
+   "source": "openalex"
+  }
+ },
+ "stabletoolbench2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.18653/v1/2024.findings-acl.664"
+  },
+  "rec": {
+   "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+   "year": 2024,
+   "authors": [
+    "Zhicheng Guo",
+    "Sijie Cheng",
+    "Hao Wang",
+    "Shihao Liang",
+    "Yujia Qin",
+    "Peng Li",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+   ],
+   "venue": null,
+   "doi": "10.18653/v1/2024.findings-acl.664",
+   "arxiv": null,
+   "cited_by": 21,
+   "source": "openalex"
+  }
+ },
+ "aios2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2403.16971"
+  },
+  "rec": {
+   "title": "AIOS: LLM Agent Operating System",
+   "year": "2024",
+   "authors": [
+    "Kai Mei",
+    "Xi Zhu",
+    "Wujiang Xu",
+    "Wenyue Hua",
+    "Mingyu Jin",
+    "Zelong Li",
+    "Shuyuan Xu",
+    "Ruosong Ye"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2403.16971",
+   "arxiv": "2403.16971",
+   "source": "arxiv"
+  }
+ },
+ "llmos2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2312.03815"
+  },
+  "rec": {
+   "title": "LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem",
+   "year": "2023",
+   "authors": [
+    "Yingqiang Ge",
+    "Yujie Ren",
+    "Wenyue Hua",
+    "Shuyuan Xu",
+    "Juntao Tan",
+    "Yongfeng Zhang"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2312.03815",
+   "arxiv": "2312.03815",
+   "source": "arxiv"
+  }
+ },
+ "mcp_landscape2026": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3796519"
+  },
+  "rec": {
+   "title": "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions",
+   "year": 2026,
+   "authors": [
+    "Xinyi Hou",
+    "Yanjie Zhao",
+    "Shenao Wang",
+    "Haoyu Wang"
+   ],
+   "venue": "ACM Transactions on Software Engineering and Methodology",
+   "doi": "10.1145/3796519",
+   "arxiv": null,
+   "cited_by": 153,
+   "source": "openalex"
+  }
+ },
+ "litecua2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2505.18829"
+  },
+  "rec": {
+   "title": "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS",
+   "year": "2025",
+   "authors": [
+    "Kai Mei",
+    "Xi Zhu",
+    "Hang Gao",
+    "Shuhang Lin",
+    "Yongfeng Zhang"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2505.18829",
+   "arxiv": "2505.18829",
+   "source": "arxiv"
+  }
+ },
+ "agents_survey2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1007/s11704-024-40231-1"
+  },
+  "rec": {
+   "title": "A survey on large language model based autonomous agents",
+   "year": 2024,
+   "authors": [
+    "Lei Wang",
+    "Chen Ma",
+    "Xueyang Feng",
+    "Zeyu Zhang",
+    "Hao Yang",
+    "Jingsen Zhang",
+    "Zhiyuan Chen",
+    "Jiakai Tang"
+   ],
+   "venue": "Frontiers of Computer Science",
+   "doi": "10.1007/s11704-024-40231-1",
+   "arxiv": null,
+   "cited_by": 1852,
+   "source": "openalex"
+  }
+ },
+ "osworld2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2404.07972"
+  },
+  "rec": {
+   "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+   "year": "2024",
+   "authors": [
+    "Tianbao Xie",
+    "Danyang Zhang",
+    "Jixuan Chen",
+    "Xiaochuan Li",
+    "Siheng Zhao",
+    "Ruisheng Cao",
+    "Toh Jing Hua",
+    "Zhoujun Cheng"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2404.07972",
+   "arxiv": "2404.07972",
+   "source": "arxiv"
+  }
+ },
+ "webarena2023": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2307.13854"
+  },
+  "rec": {
+   "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+   "year": "2023",
+   "authors": [
+    "Shuyan Zhou",
+    "Frank F. Xu",
+    "Hao Zhu",
+    "Xuhui Zhou",
+    "Robert Lo",
+    "Abishek Sridhar",
+    "Xianyi Cheng",
+    "Tianyue Ou"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2307.13854",
+   "arxiv": "2307.13854",
+   "source": "arxiv"
+  }
+ },
+ "taubench2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2406.12045"
+  },
+  "rec": {
+   "title": "$\u03c4$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+   "year": "2024",
+   "authors": [
+    "Shunyu Yao",
+    "Noah Shinn",
+    "Pedram Razavi",
+    "Karthik Narasimhan"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2406.12045",
+   "arxiv": "2406.12045",
+   "source": "arxiv"
+  }
+ },
+ "workarena2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2403.07718"
+  },
+  "rec": {
+   "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
+   "year": "2024",
+   "authors": [
+    "Alexandre Drouin",
+    "Maxime Gasse",
+    "Massimo Caccia",
+    "Issam H. Laradji",
+    "Manuel Del Verme",
+    "Tom Marty",
+    "L\u00e9o Boisvert",
+    "Megh Thakkar"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2403.07718",
+   "arxiv": "2403.07718",
+   "source": "arxiv"
+  }
+ },
+ "agentdojo2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2406.13352"
+  },
+  "rec": {
+   "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+   "year": "2024",
+   "authors": [
+    "Edoardo Debenedetti",
+    "Jie Zhang",
+    "Mislav Balunovi\u0107",
+    "Luca Beurer-Kellner",
+    "Marc Fischer",
+    "Florian Tram\u00e8r"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2406.13352",
+   "arxiv": "2406.13352",
+   "source": "arxiv"
+  }
+ },
+ "sweagent2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2405.15793"
+  },
+  "rec": {
+   "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+   "year": "2024",
+   "authors": [
+    "John Yang",
+    "Carlos E. Jimenez",
+    "Alexander Wettig",
+    "Kilian Lieret",
+    "Shunyu Yao",
+    "Karthik Narasimhan",
+    "Ofir Press"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2405.15793",
+   "arxiv": "2405.15793",
+   "source": "arxiv"
+  }
+ },
+ "camel2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2503.18813"
+  },
+  "rec": {
+   "title": "Defeating Prompt Injections by Design",
+   "year": "2025",
+   "authors": [
+    "Edoardo Debenedetti",
+    "Ilia Shumailov",
+    "Tianqi Fan",
+    "Jamie Hayes",
+    "Nicholas Carlini",
+    "Daniel Fabian",
+    "Christoph Kern",
+    "Chongyang Shi"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2503.18813",
+   "arxiv": "2503.18813",
+   "source": "arxiv"
+  }
+ },
+ "mcpsecure2026": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/ojcs.2026.3664314"
+  },
+  "rec": {
+   "title": "MCP-Secure: A Runtime Access Control Layer for Privilege-Aware LLM Agent Tooling",
+   "year": 2026,
+   "authors": [
+    "Gamini Singh",
+    "Vijay Krishna Madisetti"
+   ],
+   "venue": "IEEE Open Journal of the Computer Society",
+   "doi": "10.1109/ojcs.2026.3664314",
+   "arxiv": null,
+   "cited_by": 4,
+   "source": "openalex"
+  }
+ },
+ "miniscope2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2512.11147"
+  },
+  "rec": {
+   "title": "MiniScope: Authorizing Agents with Least-Privilege Permissions",
+   "year": "2025",
+   "authors": [
+    "Jinhao Zhu",
+    "Xiao Huang",
+    "Kevin Tseng",
+    "Gil Vernik",
+    "Shishir G. Patil",
+    "Vivian Fang",
+    "Raluca Ada Popa"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2512.11147",
+   "arxiv": "2512.11147",
+   "source": "arxiv"
+  }
+ },
+ "permmanifests2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2601.02371"
+  },
+  "rec": {
+   "title": "Permission Manifests for Web Agents",
+   "year": "2025",
+   "authors": [
+    "Samuele Marro",
+    "Alan Chan",
+    "Xinxing Ren",
+    "Lewis Hammond",
+    "Jesse Wright",
+    "Gurjyot Wanga",
+    "Tiziano Piccardi",
+    "Nuno Campos"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2601.02371",
+   "arxiv": "2601.02371",
+   "source": "arxiv"
+  }
+ },
+ "adaptiveattacks2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.18653/v1/2025.findings-naacl.395"
+  },
+  "rec": {
+   "title": "Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents",
+   "year": 2025,
+   "authors": [
+    "Qiusi Zhan",
+    "Richard Fang",
+    "Henil Shalin Panchal",
+    "Daniel D. Kang"
+   ],
+   "venue": "Findings of the Association for Computational Linguistics: NAACL",
+   "doi": "10.18653/v1/2025.findings-naacl.395",
+   "arxiv": null,
+   "cited_by": 25,
+   "source": "openalex"
+  }
+ },
+ "privacyasst2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tdsc.2024.3372777"
+  },
+  "rec": {
+   "title": "PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents",
+   "year": 2024,
+   "authors": [
+    "Xinyu Zhang",
+    "Huiyu Xu",
+    "Zhongjie Ba",
+    "Zhibo Wang",
+    "Yuan Hong",
+    "Jian Liu",
+    "Zhan Qin",
+    "Kui Ren"
+   ],
+   "venue": "IEEE Transactions on Dependable and Secure Computing",
+   "doi": "10.1109/tdsc.2024.3372777",
+   "arxiv": null,
+   "cited_by": 63,
+   "source": "openalex"
+  }
+ },
+ "saga2019": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.5220/0007918704830490"
+  },
+  "rec": {
+   "title": "The Saga Pattern in a Reactive Microservices Environment",
+   "year": 2019,
+   "authors": [
+    "Martin \u0160tefanko",
+    "Ond\u0159ej Chaloupka",
+    "Bruno Rossi"
+   ],
+   "venue": "International Conference on Software Technologies (ICSOFT)",
+   "doi": "10.5220/0007918704830490",
+   "arxiv": null,
+   "cited_by": 27,
+   "source": "openalex"
+  }
+ },
+ "sagallm2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.14778/3750601.3750611"
+  },
+  "rec": {
+   "title": "SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning",
+   "year": 2025,
+   "authors": [
+    "Edward Y. Chang",
+    "Longling Geng"
+   ],
+   "venue": "Proceedings of the VLDB Endowment",
+   "doi": "10.14778/3750601.3750611",
+   "arxiv": null,
+   "cited_by": 20,
+   "source": "openalex"
+  }
+ },
+ "reversiblesurvey2020": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1007/978-3-030-47361-7_2"
+  },
+  "rec": {
+   "title": "Software and Reversible Systems: A Survey of Recent Activities",
+   "year": 2020,
+   "authors": [
+    "Claudio Antares Mezzina",
+    "Rudolf Schlatte",
+    "Robert Gl\u00fcck",
+    "Tue Haulund",
+    "James Hoey",
+    "Martin Holm Cservenka",
+    "Ivan Lanese B",
+    "Torben \u00c6gidius Mogensen"
+   ],
+   "venue": "Lecture notes in computer science",
+   "doi": "10.1007/978-3-030-47361-7_2",
+   "arxiv": null,
+   "cited_by": 10,
+   "source": "openalex"
+  }
+ },
+ "agenttrace2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2602.10133"
+  },
+  "rec": {
+   "title": "AgentTrace: A Structured Logging Framework for Agent System Observability",
+   "year": "2026",
+   "authors": [
+    "Adam AlSayyad",
+    "Kelvin Yuxiang Huang",
+    "Richik Pal"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2602.10133",
+   "arxiv": "2602.10133",
+   "source": "arxiv"
+  }
+ },
+ "provagent2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/escience65000.2025.00093"
+  },
+  "rec": {
+   "title": "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows",
+   "year": 2025,
+   "authors": [
+    "Renan Pedra de Souza",
+    "Amal Gueroudji",
+    "Stephen J. DeWitt",
+    "Daniel Rosendo",
+    "Tirthankar Ghosal",
+    "Robert B. Ross",
+    "Prasanna Balaprakash",
+    "Rafael Ferreira da Silva"
+   ],
+   "venue": "IEEE International Conference on eScience",
+   "doi": "10.1109/escience65000.2025.00093",
+   "arxiv": null,
+   "cited_by": 25,
+   "source": "openalex"
+  }
+ },
+ "provsensitivity2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2607.20827"
+  },
+  "rec": {
+   "title": "Auditing Provenance Sensitivity in LLM Agent Action Selection",
+   "year": "2026",
+   "authors": [
+    "Junchi Liao"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2607.20827",
+   "arxiv": "2607.20827",
+   "source": "arxiv"
+  }
+ },
+ "preactionauthz2026": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.5281/zenodo.21270299"
+  },
+  "rec": {
+   "title": "Provenance-Based Pre-Action Authorization for LLM Agents: A Structural Defense Evaluated on AgentDojo with AgentLock",
+   "year": 2026,
+   "authors": [
+    "David Grice"
+   ],
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.21270299",
+   "arxiv": null,
+   "cited_by": 0,
+   "source": "openalex"
+  }
+ },
+ "continuousaudit2022": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1007/s44206-022-00022-2"
+  },
+  "rec": {
+   "title": "Continuous Auditing of Artificial Intelligence: a Conceptualization and Assessment of Tools and Frameworks",
+   "year": 2022,
+   "authors": [
+    "Matti Minkkinen",
+    "Joakim Laine",
+    "Matti M\u00e4ntym\u00e4ki"
+   ],
+   "venue": "Digital Society",
+   "doi": "10.1007/s44206-022-00022-2",
+   "arxiv": null,
+   "cited_by": 90,
+   "source": "openalex"
+  }
+ },
+ "magenticui2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2507.22358"
+  },
+  "rec": {
+   "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+   "year": "2025",
+   "authors": [
+    "Hussein Mozannar",
+    "Gagan Bansal",
+    "Cheng Tan",
+    "Adam Fourney",
+    "Victor Dibia",
+    "Jingya Chen",
+    "Jack Gerrits",
+    "Tyler Payne"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2507.22358",
+   "arxiv": "2507.22358",
+   "source": "arxiv"
+  }
+ },
+ "actioncard2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2609.18411"
+  },
+  "rec": {
+   "title": "The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents",
+   "year": "2026",
+   "authors": [
+    "Hasnain Irshad",
+    "Anam Mughees",
+    "Neelam Mughees",
+    "Abdullah Mughees",
+    "Imtiaz Ali Soomro"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2609.18411",
+   "arxiv": "2609.18411",
+   "source": "arxiv"
+  }
+ },
+ "loopjacking2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2609.21081"
+  },
+  "rec": {
+   "title": "Loopjacking: Hijacking Human-in-the-Loop Approval",
+   "year": "2026",
+   "authors": [
+    "Adithyan Arun Kumar"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2609.21081",
+   "arxiv": "2609.21081",
+   "source": "arxiv"
+  }
+ },
+ "oversight2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1016/j.nbt.2024.12.003"
+  },
+  "rec": {
+   "title": "Is human oversight to AI systems still possible?",
+   "year": 2024,
+   "authors": [
+    "Andreas Holzinger",
+    "Kurt Zatloukal",
+    "Heimo M\u00fcller"
+   ],
+   "venue": "New Biotechnology",
+   "doi": "10.1016/j.nbt.2024.12.003",
+   "arxiv": null,
+   "cited_by": 131,
+   "source": "openalex"
+  }
+ }
+}

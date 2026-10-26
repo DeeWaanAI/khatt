@@ -1,0 +1,12 @@
+{
+ "drafts": {
+  "f2346a02-eb74-4575-84c6-78a383d138a4": {
+   "body": "hello\n",
+   "created_at": "2026-10-26T16:00:33.093383+00:00",
+   "draft_id": "f2346a02-eb74-4575-84c6-78a383d138a4",
+   "subject": "hi",
+   "to": "sam@example.com"
+  }
+ },
+ "sent": []
+}

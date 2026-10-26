@@ -1,0 +1,904 @@
+{
+ "trackA": {
+  "battery_size": 41,
+  "all_statuses_and_classes_as_expected": true,
+  "undoable_actions": 37,
+  "undone_exactly": 37,
+  "reversibility_rate": 1.0,
+  "irreversible_actions_correctly_refusing_undo": "2/2",
+  "limit_probes_passed": "2/2",
+  "detail": [
+   {
+    "id": "A01",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A02",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A03",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A04",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A05",
+    "action_type": "dir.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A06",
+    "action_type": "dir.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A07",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A08",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A09",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A10",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A11",
+    "action_type": "file.move",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A12",
+    "action_type": "file.move",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A13",
+    "action_type": "file.rename",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A14",
+    "action_type": "file.rename",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A15",
+    "action_type": "file.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A16",
+    "action_type": "file.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A17",
+    "action_type": "file.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A18",
+    "action_type": "file.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A19",
+    "action_type": "file.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A20",
+    "action_type": "dir.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A21",
+    "action_type": "calendar.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A22",
+    "action_type": "calendar.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A23",
+    "action_type": "calendar.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A24",
+    "action_type": "calendar.update",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A25",
+    "action_type": "calendar.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A26",
+    "action_type": "email.draft_create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A27",
+    "action_type": "email.draft_create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A28",
+    "action_type": "email.draft_edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A29",
+    "action_type": "email.draft_discard",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A30",
+    "action_type": "email.send",
+    "status": "success",
+    "class": "IRREVERSIBLE",
+    "expect": {
+     "status": "success",
+     "class": "IRREVERSIBLE",
+     "undo": "impossible"
+    },
+    "undo_detail": {
+     "ok": false,
+     "detail": "irreversible"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A31",
+    "action_type": "trash.purge",
+    "status": "success",
+    "class": "IRREVERSIBLE",
+    "expect": {
+     "status": "success",
+     "class": "IRREVERSIBLE",
+     "undo": "impossible"
+    },
+    "undo_detail": {
+     "ok": false,
+     "detail": "irreversible"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A32",
+    "action_type": "dir.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A33",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A34",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A35",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A36",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A37",
+    "action_type": "file.create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "idempotent"
+    },
+    "undo_detail": [
+     {
+      "ok": true,
+      "detail": "ok"
+     },
+     {
+      "ok": true,
+      "detail": "already undone (no-op, record kept)"
+     }
+    ],
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A38",
+    "action_type": "file.edit",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "conflict"
+    },
+    "undo_detail": {
+     "ok": false,
+     "detail": "conflict: reports/q2.txt modified after action"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A39",
+    "action_type": "file.move",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A40",
+    "action_type": "email.draft_create",
+    "status": "success",
+    "class": "EXACT",
+    "expect": {
+     "status": "success",
+     "class": "EXACT",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   },
+   {
+    "id": "A41",
+    "action_type": "dir.delete",
+    "status": "success",
+    "class": "COMPENSABLE",
+    "expect": {
+     "status": "success",
+     "class": "COMPENSABLE",
+     "undo": "exact"
+    },
+    "undo_detail": {
+     "ok": true,
+     "detail": "ok"
+    },
+    "exact_restore": true,
+    "status_ok": true,
+    "class_ok": true
+   }
+  ]
+ },
+ "trackB": {
+  "injected_defects": 15,
+  "caught_before_execution": 15,
+  "containment_rate": 1.0,
+  "no_state_change_on_refusal": true,
+  "detail": [
+   {
+    "id": "B01",
+    "status": "refused",
+    "reason": "action_type_not_granted:file.delete",
+    "expected": "action_type_not_granted",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B02",
+    "status": "refused",
+    "reason": "target_out_of_scope:notes/todo.txt",
+    "expected": "target_out_of_scope",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B03",
+    "status": "refused",
+    "reason": "path_escape:../../etc/passwd",
+    "expected": "path_escape",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B04",
+    "status": "refused",
+    "reason": "path_escape:reports/../../../etc/hosts",
+    "expected": "path_escape",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B05",
+    "status": "refused",
+    "reason": "target_out_of_scope:reports/../notes/todo.txt",
+    "expected": "target_out_of_scope",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B06",
+    "status": "refused",
+    "reason": "grant_expired",
+    "expected": "grant_expired",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B07",
+    "status": "refused",
+    "reason": "no_grant",
+    "expected": "no_grant",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B08",
+    "status": "refused",
+    "reason": "unknown_action_type",
+    "expected": "unknown_action_type",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B09",
+    "status": "refused",
+    "reason": "preconditions_failed:target_exists",
+    "expected": "preconditions_failed",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B10",
+    "status": "refused",
+    "reason": "preconditions_failed:event_exists",
+    "expected": "preconditions_failed",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B11",
+    "status": "refused",
+    "reason": "preconditions_failed:recipient_wellformed",
+    "expected": "preconditions_failed",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B12",
+    "status": "refused",
+    "reason": "confirmation_required",
+    "expected": "confirmation_required",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B13",
+    "status": "refused",
+    "reason": "confirmation_required",
+    "expected": "confirmation_required",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B14",
+    "status": "refused",
+    "reason": "preconditions_failed:dst_free",
+    "expected": "preconditions_failed",
+    "caught": true,
+    "state_unchanged": true
+   },
+   {
+    "id": "B15",
+    "rows": [
+     {
+      "status": "success",
+      "reason": ""
+     },
+     {
+      "status": "refused",
+      "reason": "target_out_of_scope:notes/todo.txt"
+     }
+    ],
+    "caught": true,
+    "state_unchanged_by_refused": true
+   }
+  ]
+ },
+ "trackC": {
+  "records_total": 52,
+  "battery_records": 39,
+  "skipped_dependency_collisions": [
+   "A31",
+   "A34"
+  ],
+  "re_narratable": 39,
+  "chain_ok": true,
+  "tamper_modify_detected": true,
+  "tamper_delete_detected": true
+ }
+}

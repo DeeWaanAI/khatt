@@ -1,0 +1,6 @@
+{
+ "dataset": "action_log",
+ "record_type": "action_record",
+ "spec": "Qafiya v1.1 \u00a78 layout; chained history v1.3",
+ "fields": "see 03-action-layer/spec.md \u00a73 (action_record) / \u00a74 (permission_grant)"
+}
